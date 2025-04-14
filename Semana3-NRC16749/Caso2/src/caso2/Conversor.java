@@ -15,5 +15,5 @@ public class Conversor {
 		super();
 		this.seg = seg;
 	}
-	
+	//conversor
 }
